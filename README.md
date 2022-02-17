@@ -26,7 +26,7 @@
 
 * Ha usado gitpod: Open in VSCode
 
-  * Al seleccionar la opción "Open in VSCode" es posible abrir el GitPod en VSCode en la máquina local.
+  * Una vez abierto GitPod en el navegador, al seleccionar la opción "Open in VSCode" es posible abrir el GitPod en VSCode en la máquina local.
 
   ![gitpod_en_vscode_1](doc/gitpod_en_vscode_1.png)
 
@@ -50,7 +50,7 @@
 
   ![instalar_remotessh](doc/instalar_remotessh.png)
 
-  * Se ha probado con la máquina del IaaS, como se ve en la imagen. "PL" es un alias de la máquina.
+  * Una vez instalado, se ha probado con la máquina del IaaS, como se ve en la imagen. "PL" es un alias de la máquina.
 
   ![ssh_con_vscode](doc/ssh_con_vscode.png)
 

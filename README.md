@@ -1,8 +1,6 @@
-# **Práctica GitPod y VSCode**
-## Procesadores de Lenguajes
-### Juan Salvador Magariños Alba - alu0101352145
+# Práctica Editors
 
-## Estado de la práctica: finalizada
+Autor: Juan Salvador Magariños Alba - alu0101352145
 
 ## Ítems de la rúbrica conseguidos
 
